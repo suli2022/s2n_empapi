@@ -1,0 +1,12 @@
+{
+    "employees": [
+        {"id": 1, "name": "Erős István", "city": "Szeged"},
+        {"id": 2, "name": "Penge Géza", "city": "Szeged"},
+        {"id": 3, "name": "Csendes Irén", "city": "Szolonok"},
+        {"id": 4, "name": "Lenke Iván", "city": "Szombathely"},
+        {"id": 5, "name": "Torony Ernő", "city": "Szeged"},
+        {"id": 6, "name": "Páros Gábor", "city": "Kecskemét"},
+        {"id": 7, "name": "Lendvai Lajos", "city": "Kalocsa"},
+        {"id": 8, "name": "Aranyos Norbert", "city": "Szeged"}
+    ]
+}
